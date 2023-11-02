@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Shakezidin/unittesting/math" // Import the math package you've created
+	"github.com/Shakezidin/unittesting/math" 
 )
 
 func main() {
